@@ -6,6 +6,10 @@
 
 `LFW` data was aligned by `MTCNN(image_size=160, margin=14)`.
 
+Generate 'pair.txt':
+* [insight face数据打包（一）：LFW](https://blog.csdn.net/ustczhng2012/article/details/113512500)
+
+
 
 ## Acknowledgement
 This repo is modified and adapted on these great repositories, we thank theses authors a lot for their greate efforts.
